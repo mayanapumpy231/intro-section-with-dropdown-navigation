@@ -1,0 +1,58 @@
+.nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.logo{
+  display: flex;
+}
+button{
+  margin: 10px;
+}
+.top{
+  width: 40%;
+  height: 90vh;
+}
+.content{
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-around;
+  
+  
+}
+.left{
+  width: 40%;
+  
+}
+.div{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 100px ;
+  
+}.make{
+  margin-top: 50px;
+  font-size: 70px;
+
+}
+.get{
+  margin-top: 50px;
+}
+.Learn{
+  margin-top: 50px;
+  background-color: hsl(0, 0%, 8%);
+  color: white;
+  padding: 10px 25px;
+  border-radius: 15px;
+  font-size: 18px;
+}
+body{
+  font-family: 'Epilogue',
+  sans-serif;
+}
+.btns{
+  border: none;
+}
+.reg{
+  border: none;
+}
